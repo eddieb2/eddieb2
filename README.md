@@ -3,12 +3,6 @@
 <p><a href="https://eblanciak.netlify.app/">🌐 Check out my website</a>
 
 ### Full Stack Web Developer
-
--   🌱 I’m currently learning everything imaginable
--   👯 I’m looking to collaborate with other developers!
--   ⚡ Fun fact: I'm a golf enthusiast.
--   🔭 Favorite language: Python
-
 ### Connect with me!
 
 [![Linkedin: Eddie Blanciak](https://img.shields.io/badge/-EddieBlanciak-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/edward-blanciak-7a78b189/)
