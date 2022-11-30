@@ -1,11 +1,11 @@
-## **Hi there, I'm Eddie Blanciak** 👋
+## **Hi, I'm Eddie Blanciak** 👋
 
-<p><a href="https://eblanciak.netlify.app/">🌐 Check out my website</a>
+<p><a href="https://www.eblanciak.com/">🌐 Check out my website</a>
 
 ### Full Stack Web Developer
 ### Connect with me!
 
-[![Linkedin: Eddie Blanciak](https://img.shields.io/badge/-EddieBlanciak-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/edward-blanciak-7a78b189/)
+[![Linkedin: Eddie Blanciak](https://img.shields.io/badge/-EddieBlanciak-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/edward-blanciak/)
 [![GitHub Eddie Blanciak](https://img.shields.io/github/followers/eddieb2?label=follow&style=social)](https://github.com/eddieb2)
 <br />
 <br />
